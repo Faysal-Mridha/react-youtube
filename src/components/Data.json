@@ -1,0 +1,82 @@
+[
+    {
+        "Thumnil":"/images/chanelimg.jpg",
+        "title": "🔴 Let's Build a YouTube Clone with REACT JS for Beginners",
+        "chanleimg":"/images/chanelimgjpg.jpg",
+        "chanlename":"Claver programmer",
+        "view":"153k",
+        "time":"Streamed 8 mounth ago"
+    },
+
+    {
+        "Thumnil":"https://i.ytimg.com/vi/cl07GZKqhP0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBgyrJ5iHDEYWKBg0Usjm1Xw_t_fw",
+        "title": "সারাদেশে ৭ দিনের সর্বাত্মক লকডাউন শুরু | Lockdown In Bangladesh | Somoy TV",
+        "chanleimg":"https://yt3.ggpht.com/ytc/AAUvwnga0RL8-Uc2DvD9hviEnMfpDVrxGkFFWZ_THKOm7Q=s68-c-k-c0x00ffffff-no-rj",
+        "chanlename":"SOMOY TV",
+        "view":"22k",
+        "time":"1 mounth ago"
+    },
+
+    {
+        "Thumnil":"https://i.ytimg.com/vi/H8Mb-At05f8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBeVvjVL97SlEqEnwNabYyzrRdv5Q",
+        "title": "Kabira [slowed + reverb]- Yeh Jawaani Hai Deewani | Textaudio Lyrics",
+        "chanleimg":"https://yt3.ggpht.com/ytc/AAUvwnjfLRF-uje4G_XfulQVwwKZTgIxXVM-k5Z05XUP=s68-c-k-c0x00ffffff-no-rj",
+        "chanlename":"Textaudio Lyrics",
+        "view":"1.2M",
+        "time":"4 mounth ago"
+    },
+
+    {
+        "Thumnil":"https://i.ytimg.com/vi/p0bGHP-PXD4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDjXS6qbfwWKBAXGVr8GdjC2_UFGA",
+        "title": "Build a Responsive Website | HTML, CSS Grid, Flexbox & More",
+        "chanleimg":"https://yt3.ggpht.com/ytc/AAUvwng963DN2_MIbKuvMWRrN4KG920h3Y4YHg6KET9vZg=s68-c-k-c0x00ffffff-no-rj",
+        "chanlename":"Traversy Media",
+        "view":"317k",
+        "time":"5 mounth ago"
+    },
+
+    {
+        "Thumnil":"https://i.ytimg.com/vi/0qQLwaJKSC4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC-l9uD2FnuiRMx_aVvWqFUskM0dA",
+        "title": "REACT JS এর ভবিষ্যৎ ! কেনো শিখবেন? কিভাবে শিখবেন",
+        "chanleimg":"https://yt3.ggpht.com/ytc/AAUvwngurxMpswvW_5sJVNwMWIUyxo_hR2k-PFk1cXaR=s68-c-k-c0x00ffffff-no-rj",
+        "chanlename":"Rabbil Hasan",
+        "view":"15k",
+        "time":"3 mounth ago"
+    },
+
+    {
+        "Thumnil":"https://i.ytimg.com/vi/858YA9sSWqg/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA2tjRaq_WV5nDZf5ZCMCyeVNEPdQ",
+        "title": "lut gaye full song: teri nazron ne kuch aisa jadoo kiya lut gaye|aankh uthi mohabbat ne angrai lee",
+        "chanleimg":"/images/chanelimgjpg.jpg",
+        "chanlename":"Sonu",
+        "view":"122M",
+        "time":"1 mounth ago"
+    },
+
+    {
+        "Thumnil":"https://i.ytimg.com/vi/m0tu35QRip8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDs94qARO_WXjmRTmlD6zILxlBzXg",
+        "title": "মাহে রমজান থেকেই ১০টি অভ্যাস ত্যাগ করুন । আপনার জীবন বদলে যাবে। Mizanur rahman azhari",
+        "chanleimg":"https://yt3.ggpht.com/ytc/AAUvwngJ3L81b8_GLuF-8Xm7jqfxCWR4GFCZxOV9a1T2=s68-c-k-c0x00ffffff-no-rj",
+        "chanlename":"Rose Tv24",
+        "view":"3.7M",
+        "time":"11 mounth ago"
+    },
+
+    {
+        "Thumnil":"https://i.ytimg.com/vi/rv3Yq-B8qp4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDn7TTXQrLAkOGKePxj5UyyUhn78A",
+        "title": "Svelte in 100 Seconds",
+        "chanleimg":"https://yt3.ggpht.com/ytc/AAUvwnjWfh0Ki7uJWaYNhpZyG8ataxCL9N5SscOhfZfGXg=s68-c-k-c0x00ffffff-no-rj",
+        "chanlename":"Fireship",
+        "view":"35k",
+        "time":"12 hour ago"
+    },
+
+    {
+        "Thumnil":"https://i.ytimg.com/vi/O7WbVj5apxU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAN0VnA5nvJDgGnQkiNxXFz4Du-_w",
+        "title": "Build Glass Website with HTML and CSS Tutorial",
+        "chanleimg":"https://yt3.ggpht.com/ytc/AAUvwnhYs6E9SqtWTikVdaGFwXzNmXPTR6ko2gNkZi-fEw=s68-c-k-c0x00ffffff-no-rj",
+        "chanlename":"Dev Ed",
+        "view":"365k",
+        "time":"2 mounth ago"
+    }
+]
